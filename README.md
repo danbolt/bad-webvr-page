@@ -1,5 +1,7 @@
 # Bad WebVR Page
 
+![a stereoscopic scene showing Gengar, Porygon, and the spinning Nintendo 64 logo](https://danbolt.github.io/bad-webvr-page/preview.gif)
+
 # About
 Hello this is my very legit WebVR project and not half-baked trash that took two hours to make
 
